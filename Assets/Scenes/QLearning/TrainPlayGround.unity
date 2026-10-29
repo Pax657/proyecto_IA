@@ -2923,8 +2923,8 @@ MonoBehaviour:
   qLearningTrainerClass: GrupoG.QMindTrainer, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
     PublicKeyToken=null
   showSimulation: 1
-  agentSpeed: 5
-  train: 1
+  agentSpeed: 15
+  train: 0
   algorithmParams:
     alpha: 0.2
     epsilon: 0.85

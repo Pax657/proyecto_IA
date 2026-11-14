@@ -24385,7 +24385,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 1824630789}
   oponent: {fileID: 1518200256}
-  speed: 15
+  speed: 500
   qMindClass: GrupoG.QMindTester, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
     PublicKeyToken=null
 --- !u!4 &1783673685
